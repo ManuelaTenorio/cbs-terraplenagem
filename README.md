@@ -45,7 +45,7 @@ Este repositório serve apenas para demonstração do trabalho realizado.
 ## 📸 Screenshots
 
 ![Home Desktop](screenshots/home-desktop.png)  
-![Home Mobile](screenshots/home-mobile.png)
+![Home Mobile](screenshots/sobre-desktop.png)
 
 ---
 
